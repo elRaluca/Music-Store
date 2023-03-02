@@ -1,0 +1,3 @@
+C:/Users/raluca/OneDrive/Desktop/MusicStore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/raluca/OneDrive/Desktop/MusicStore/cmake-build-debug/CMakeFiles/MusicStore.dir
+C:/Users/raluca/OneDrive/Desktop/MusicStore/cmake-build-debug/CMakeFiles/edit_cache.dir
